@@ -1,3 +1,11 @@
+
+
+
+
+
+
+
+
 Welocome to Telusko kitchen
 
 
@@ -6,10 +14,15 @@ Pasta
 
 Chicken Fry
 
+Beans
+Pizza
 
 
 thank you );
 
 
 
+Done my chyanges
+
 Final copy
+
